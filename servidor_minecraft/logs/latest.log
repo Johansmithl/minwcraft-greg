@@ -928,3 +928,20 @@ java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 
 [21:59:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [21:59:31] [Server thread/WARN] [FML]: GregTech loaded a new chunk [10, 30] in dimension 0 (overworld) while populating chunk [11, 30], causing cascading worldgen lag.
 [21:59:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:02:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[22:02:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: johan lost connection: Timed out
+[22:02:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: johan left the game
+[22:04:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[22:04:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:04:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:04:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:04:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[22:04:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/MINING_WORLD
+[22:04:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[22:04:10] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:04:10] [Server thread/INFO] [FML]: Unloading dimension -6
+[22:04:10] [Server thread/INFO] [FML]: Unloading dimension 2
+[22:04:10] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[22:04:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:04:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:04:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
