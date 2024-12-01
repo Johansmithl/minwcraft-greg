@@ -1,0 +1,930 @@
+[21:51:19] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:51:19] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:51:19] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:51:19] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[21:51:19] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[21:51:20] [main/INFO] [FML]: Searching /workspaces/minwcraft-greg/servidor_minecraft/./mods for mods
+[21:51:20] [main/INFO] [FML]: Searching /workspaces/minwcraft-greg/servidor_minecraft/./mods/1.12.2 for mods
+[21:51:20] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from !mixinbooter-10.2.jar
+[21:51:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ae2-uel-v0.56.6.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:51:20] [main/WARN] [FML]: The coremod AE2ELCore (appeng.core.AE2ELCore) is not signed!
+[21:51:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Aroma1997Core-1.12.2-2.0.0.2.b167.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:51:20] [main/WARN] [FML]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:51:20] [main/INFO] [FML]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[21:51:20] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from Durability101-forge-1.12-0.0.4.jar
+[21:51:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Fluid Craft for AE2-2.6.6-r.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:51:20] [main/WARN] [FML]: The coremod FluidCraftCore (com.glodblock.github.coremod.FCCoreMod) is not signed!
+[21:51:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:51:20] [main/WARN] [FML]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:51:20] [main/WARN] [FML]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
+[21:51:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in gregtech-1.12.2-2.8.10-beta.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:51:20] [main/WARN] [FML]: The coremod GregTechLoadingPlugin (gregtech.asm.GregTechLoadingPlugin) is not signed!
+[21:51:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:51:20] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:51:20] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[21:51:20] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[21:51:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in visualores-0.2.6.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:51:20] [main/WARN] [FML]: The coremod VOEarlyMixinLoader (hellfall.visualores.mixins.VOEarlyMixinLoader) is not signed!
+[21:51:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_24.6.1_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:51:20] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[21:51:20] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.39.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:51:20] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[21:51:20] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:51:20] [main/WARN] [FML]: The coremod IELoadingPlugin (blusunrize.immersiveengineering.common.asm.IELoadingPlugin) is not signed!
+[21:51:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:51:20] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[21:51:20] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minwcraft-greg/servidor_minecraft/./mods/!mixinbooter-10.2.jar Service=LaunchWrapper Env=SERVER
+[21:51:20] [main/WARN] [FML]: The coremod zone.rong.mixinbooter.MixinBooterPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:51:20] [main/WARN] [FML]: The coremod MixinBooter (zone.rong.mixinbooter.MixinBooterPlugin) is not signed!
+[21:51:20] [main/INFO] [MixinBooter]: Initializing Mixins...
+[21:51:20] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[21:51:20] [main/INFO] [MixinBooter]: Initializing MixinExtras...
+[21:51:20] [main/INFO] [MixinBooter]: Gathering present mods...
+[21:51:20] [main/INFO] [MixinBooter]: Finished gathering 11 mods...
+[21:51:20] [main/INFO] [LaunchWrapper]: Loading tweak class name codechicken.asm.internal.Tweaker
+[21:51:20] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[21:51:20] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[21:51:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:51:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:51:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:51:20] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[21:51:20] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[21:51:20] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[21:51:20] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [Aroma1997Core]: Finished data injection.
+[21:51:21] [main/INFO] [Aroma1997Core]: Finished data injection.
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[21:51:21] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@75e710b
+[21:51:21] [main/INFO] [MixinBooter]: Loading early loader [hellfall.visualores.mixins.VOEarlyMixinLoader] for its mixins.
+[21:51:21] [main/INFO] [MixinBooter]: Adding [mixins.visualores.immersiveengineering.json] mixin configuration.
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class codechicken.asm.internal.Tweaker
+[21:51:21] [main/INFO] [STDOUT]: [codechicken.asm.internal.Tweaker:injectIntoClassLoader:30]: false
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:51:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:51:21] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:51:21] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[21:51:21] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[21:51:21] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[21:51:21] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer
+[21:51:21] [main/INFO] [GregTechTransformer]: Patched method func_180498_a(Lnet/minecraft/entity/player/EntityPlayer;ILnet/minecraft/util/math/BlockPos;I)V in net/minecraft/world/World successfully
+[21:51:21] [main/INFO] [MixinExtras|Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.4).
+[21:51:22] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[21:51:22] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.management.PlayerList
+[21:51:22] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[21:51:22] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[21:51:22] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[21:51:22] [main/INFO] [STDOUT]: [appeng.core.transformer.ItemStackPatch:patchCountGetSet:53]: Patched ItemStack Count getter!
+[21:51:22] [main/INFO] [STDOUT]: [appeng.core.transformer.ItemStackPatch:patchCountGetSet:81]: Patched ItemStack Count setter!
+[21:51:23] [main/INFO] [GregTechTransformer]: Patched method func_92089_a(Lnet/minecraft/item/ItemStack;)Z in net/minecraft/enchantment/EnchantmentDurability successfully
+[21:51:24] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[21:51:24] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayerMP
+[21:51:25] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[21:51:25] [main/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.storage.SaveFormatOld
+[21:51:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[21:51:25] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[21:51:25] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[21:51:25] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[21:51:25] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[21:51:25] [Server thread/INFO] [MixinBooter]: Initializing MixinBooter's Mod Container.
+[21:51:25] [Server thread/INFO] [FML]: Searching /workspaces/minwcraft-greg/servidor_minecraft/./mods for mods
+[21:51:25] [Server thread/INFO] [FML]: Searching /workspaces/minwcraft-greg/servidor_minecraft/./mods/1.12.2 for mods
+[21:51:26] [Server thread/WARN] [FML]: Mod aroma1997core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.2.b167
+[21:51:26] [Server thread/WARN] [FML]: Mod aroma1997sdimension is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.2.b89
+[21:51:26] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[21:51:26] [Server thread/WARN] [FML]: Mod durability101 is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.4
+[21:51:26] [Server thread/WARN] [FML]: Mod microblockcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.2.83
+[21:51:26] [Server thread/WARN] [FML]: Mod forgemultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.2.83
+[21:51:26] [Server thread/WARN] [FML]: Mod minecraftmultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.2.83
+[21:51:27] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[21:51:27] [Server thread/WARN] [FML]: Mod mrtjpcore is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.1.4.43
+[21:51:27] [Server thread/WARN] [FML]: Mod projectred-core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[21:51:27] [Server thread/WARN] [FML]: Mod projectred-integration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[21:51:27] [Server thread/WARN] [FML]: Mod projectred-transmission is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[21:51:27] [Server thread/INFO] [FML]: Forge Mod Loader has identified 44 mods to load
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for durability101: assets/durability101/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for forgeendertech: assets/forgeendertech/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for microblockcbe: assets/microblockcbe/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for forgemultipartcbe: assets/forgemultipartcbe/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for minecraftmultipartcbe: assets/minecraftmultipartcbe/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for mrtjpcore: assets/mrtjpcore/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for projectred-core: assets/projectred-core/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for projectred-integration: assets/projectred-integration/lang/en_us.lang
+[21:51:27] [Server thread/WARN] [FML]: Missing English translation for projectred-transmission: assets/projectred-transmission/lang/en_us.lang
+[21:51:27] [Server thread/INFO] [FML]: FML has found a non-mod file mods.zip in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[21:51:27] [Server thread/INFO] [MixinBooter]: Loading late loader [hellfall.visualores.mixins.VOLateMixinLoader] for its mixins.
+[21:51:27] [Server thread/INFO] [MixinBooter]: Adding [mixins.visualores.xaerominimap_core.json] mixin configuration.
+[21:51:27] [Server thread/INFO] [MixinBooter]: Adding [mixins.visualores.xaeroworldmap.json] mixin configuration.
+[21:51:27] [Server thread/INFO] [MixinBooter]: Adding [mixins.visualores.gregtech.json] mixin configuration.
+[21:51:27] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, mixinbooter, appliedenergistics2, ae2wtlib, aroma1997core, aroma1997sdimension, buildinggadgets, codechickenlib, durability101, ae2fc, fluxnetworks, forgeendertech, microblockcbe, forgemultipartcbe, minecraftmultipartcbe, gcym, gregtech, waila, immersivepetroleum, ic2, jei, mekanism, mekanismgenerators, mrtjpcore, oreexcavation, p455w0rdslib, projectred-core, projectred-integration, projectred-transmission, refinedstorage, refinedstorageaddons, storagenetwork, solarflux, visualores, wct, xaerominimap, xaeroworldmap, recipehandler, immersiveengineering] at CLIENT
+[21:51:27] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, xaeroworldmap_core, mixinbooter, appliedenergistics2, ae2wtlib, aroma1997core, aroma1997sdimension, buildinggadgets, codechickenlib, durability101, ae2fc, fluxnetworks, forgeendertech, microblockcbe, forgemultipartcbe, minecraftmultipartcbe, gcym, gregtech, waila, immersivepetroleum, ic2, jei, mekanism, mekanismgenerators, mrtjpcore, oreexcavation, p455w0rdslib, projectred-core, projectred-integration, projectred-transmission, refinedstorage, refinedstorageaddons, storagenetwork, solarflux, visualores, wct, xaerominimap, xaeroworldmap, recipehandler, immersiveengineering] at SERVER
+[21:51:28] [Server thread/INFO] [STDOUT]: [appeng.core.transformer.AE2ELTransformer:spliceClasses:140]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_150791_c
+[21:51:28] [Server thread/INFO] [STDOUT]: [appeng.core.transformer.AE2ELTransformer:spliceClasses:140]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_150788_a
+[21:51:28] [Server thread/ERROR] [FML]: The mod appliedenergistics2 is expecting signature dfa4d3ac143316c6f32aa1a1beda1e34d42132e5 for source ae2-uel-v0.56.6.jar, however there is no signature matching that description
+[21:51:28] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.tile.AEBaseTile
+[21:51:28] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[21:51:28] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.world.chunk.Chunk
+[21:51:28] [Server thread/INFO] [GregTech Module Loader]: Module baubles_integration is missing at least one of mod dependencies: [baubles], skipping loading...
+[21:51:28] [Server thread/INFO] [GregTech Module Loader]: Module fr_integration is missing at least one of mod dependencies: [forestry], skipping loading...
+[21:51:28] [Server thread/INFO] [GregTech Module Loader]: Module chisel_integration is missing at least one of mod dependencies: [chisel], skipping loading...
+[21:51:28] [Server thread/INFO] [GregTech Module Loader]: Module oc_integration is missing at least one of mod dependencies: [opencomputers], skipping loading...
+[21:51:28] [Server thread/INFO] [GregTech Module Loader]: Module grs_integration is missing at least one of mod dependencies: [groovyscript], skipping loading...
+[21:51:28] [Server thread/INFO] [GregTech Module Loader]: Module top_integration is missing at least one of mod dependencies: [theoneprobe], skipping loading...
+[21:51:28] [Server thread/INFO] [GregTech Module Loader]: Module hwyla_integration is missing at least one of mod dependencies: [hwyla], skipping loading...
+[21:51:28] [Server thread/INFO] [GregTech Module Loader]: Module ct_integration is missing at least one of mod dependencies: [crafttweaker], skipping loading...
+[21:51:28] [Server thread/ERROR] [FML]: The mod immersiveengineering is expecting signature 4cb49fcde3b43048c9889e0a3d083225da926334 for source ImmersiveEngineering-0.12-98.jar, however there is no signature matching that description
+[21:51:29] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[21:51:29] [Server thread/INFO] [STDOUT]: [blusunrize.immersiveengineering.ImmersiveEngineering:wrongSignature:175]: [Immersive Engineering/Error] THIS IS NOT AN OFFICIAL BUILD OF IMMERSIVE ENGINEERING! Found these fingerprints: []
+[21:51:29] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[21:51:30] [Server thread/INFO] [FML]: Found 1282 ObjectHolder annotations
+[21:51:30] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[21:51:30] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[21:51:30] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[21:51:30] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Starting version check at http://chickenbones.net/Files/notification/version.php?query=forge&version=1.12&file=CodeChickenLib
+[21:51:30] [Server thread/INFO] [AE2:S]: Pre Initialization ( started )
+[21:51:30] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.items.parts.PartType
+[21:51:30] [Forge Version Check/INFO] [forge.VersionCheck]: [codechickenlib] Found status: BETA Target: null
+[21:51:30] [Forge Version Check/INFO] [forge.VersionCheck]: [solarflux] Starting version check at https://dccg.herokuapp.com/api/fmluc/246974
+[21:51:30] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.parts.AEBasePart
+[21:51:30] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.core.sync.GuiBridge
+[21:51:30] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.helpers.DualityInterface
+[21:51:30] [Server thread/INFO] [AE2:S]: Starting AE2 VersionChecker
+[21:51:30] [Server thread/INFO] [AE2:S]: Pre Initialization ( ended after 787ms )
+[21:51:31] [Forge Version Check/INFO] [forge.VersionCheck]: [buildinggadgets] Starting version check at https://github.com/Direwolf20-MC/BuildingGadgets/raw/master/update.json
+[21:51:31] [Server thread/OFF] [Aroma1997Core]: Loading Aroma1997Core version 2.0.0.2.b167 for MC 1.12.2
+[21:51:31] [Server thread/INFO] [Aroma1997Core]: Finished Pre-initialization.
+[21:51:31] [Forge Version Check/INFO] [forge.VersionCheck]: [buildinggadgets] Found status: AHEAD Target: null
+[21:51:31] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Starting version check at https://raw.githubusercontent.com/BluSunrize/ImmersiveEngineering/master/changelog.json
+[21:51:31] [Forge Version Check/INFO] [forge.VersionCheck]: [immersiveengineering] Found status: AHEAD Target: null
+[21:51:31] [Forge Version Check/INFO] [forge.VersionCheck]: [storagenetwork] Starting version check at https://raw.githubusercontent.com/Lothrazar/Storage-Network/master/update.json
+[21:51:31] [Forge Version Check/INFO] [forge.VersionCheck]: [storagenetwork] Found status: BETA Target: null
+[21:51:31] [Forge Version Check/INFO] [forge.VersionCheck]: [refinedstorage] Starting version check at https://refinedstorage.raoulvdberge.com/update
+[21:51:31] [AE2 VersionChecker/INFO] [AE2:S]: No newer version is available: missing(found) < missing (current)
+[21:51:31] [AE2 VersionChecker/INFO] [AE2:S]: Stopping AE2 VersionChecker
+[21:51:31] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.container.implementations.ContainerPatternEncoder
+[21:51:31] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:51:32] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[21:51:32] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `ccmp` for name `saved_multipart`, expected `forgemultipartcbe`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:32] [Server thread/INFO] [GregTech]: High-Tier is Disabled.
+[21:51:32] [Server thread/INFO] [GregTech Core]: Registering GTCEu UI Factories
+[21:51:32] [Server thread/INFO] [GregTech Core]: Registering addon UI Factories
+[21:51:32] [Server thread/INFO] [GregTech Core]: Registering material registries
+[21:51:32] [Server thread/INFO] [GregTech Core]: Registering GTCEu Materials
+[21:51:32] [Server thread/INFO] [GregTech Core]: Registering addon Materials
+[21:51:32] [Server thread/WARN] [GregTech]: Material gregtech.material.graphene does not have required property ingot for flag generate_foil!
+[21:51:33] [Server thread/INFO] [GregTech Core]: Registering GTCEu Meta Tile Entities
+[21:51:33] [Server thread/INFO] [GregTech]: Registering MetaTileEntities
+[21:51:33] [Server thread/INFO] [GregTech]: Registering KeyBinds
+[21:51:34] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering]: Attempting to download special revolvers from GitHub
+[21:51:34] [Server thread/WARN] [FML]: A mod has attempted to assign Block Block{minecraft:air} to the Fluid 'oil' but this Fluid has already been linked to the Block Block{minecraft:air}. You may have duplicate Fluid Blocks as a result. It *may* be possible to configure your mods to avoid this.
+[21:51:38] [Server thread/INFO] [GregTechTransformer]: Patched method applyArmor(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F in net/minecraftforge/common/ISpecialArmor$ArmorProperties successfully
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[21:51:39] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[21:51:39] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
+[21:51:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxcontroller`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxpoint`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxplug`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `fluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `herculeanfluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gargantuanfluxstorage`, expected `fluxnetworks`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:40] [Server thread/INFO] [GregTech]: Registering Blocks...
+[21:51:41] [Server thread/INFO] [gcym]: Registering blocks...
+[21:51:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:43] [Server thread/INFO] [Aroma1997Core]: Successfully registered 3 Blocks for class net.minecraft.block.Block from aroma1997sdimension.
+[21:51:43] [Server thread/INFO] [FML]: Applying holder lookups
+[21:51:43] [Server thread/INFO] [FML]: Holder lookups applied
+[21:51:43] [Server thread/INFO] [GregTech]: Registering Items...
+[21:51:43] [Server thread/INFO] [GregTechTransformer]: Patched method func_180498_a(Lnet/minecraft/entity/player/EntityPlayer;ILnet/minecraft/util/math/BlockPos;I)V in net/minecraft/world/World successfully
+[21:51:43] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[21:51:43] [Server thread/INFO] [STDOUT]: [xaero.map.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.entity.player.EntityPlayer
+[21:51:43] [Server thread/INFO] [STDOUT]: [appeng.core.transformer.AE2ELTransformer:spliceClasses:140]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_150791_c
+[21:51:43] [Server thread/INFO] [STDOUT]: [appeng.core.transformer.AE2ELTransformer:spliceClasses:140]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_150788_a
+[21:51:44] [Server thread/INFO] [gcym]: Registering Items...
+[21:51:44] [Server thread/INFO] [Aroma1997Core]: Successfully registered 4 Items for class net.minecraft.item.Item from aroma1997sdimension.
+[21:51:44] [Server thread/INFO] [FML]: Applying holder lookups
+[21:51:44] [Server thread/INFO] [FML]: Holder lookups applied
+[21:51:44] [Server thread/INFO] [Aroma1997Core]: Successfully registered 1 Biomes for class net.minecraft.world.biome.Biome from aroma1997sdimension.
+[21:51:44] [Server thread/INFO] [FML]: Applying holder lookups
+[21:51:44] [Server thread/INFO] [FML]: Holder lookups applied
+[21:51:44] [Server thread/INFO] [FML]: Applying holder lookups
+[21:51:44] [Server thread/INFO] [FML]: Holder lookups applied
+[21:51:44] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:51:44] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[21:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[21:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[21:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[21:51:44] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[21:51:44] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:51:44] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[21:51:44] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:51:44] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:51:44] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@8 = 1xitem.ingotIron@0
+[21:51:44] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xic2.dust@7 = 1xitem.ingotGold@0
+[21:51:44] [Server thread/INFO] [GregTech]: Registering ore dictionary...
+[21:51:44] [Server thread/INFO] [GregTech]: Registering OreDict entries.
+[21:51:44] [Server thread/INFO] [GregTech]: Registering recipes...
+[21:51:45] [Server thread/INFO] [GregTech]: Modifying vanilla recipes according to config. DON'T BE SCARED OF FML's WARNING ABOUT DANGEROUS ALTERNATIVE PREFIX.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `paper`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `sugar`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `glass_bottle`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cauldron`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hopper`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `iron_bars`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bucket`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flint_and_steel`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tnt`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `white_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_stained_glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `glass_pane`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `minecart`, expected `gregtech`. This could be a intended override, but in most cases indicates a broken mod.
+[21:51:45] [Server thread/INFO] [gcym]: Registering recipes...
+[21:51:45] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.immersiveengineering.metal@18 = 1xitem.ingotIron@0
+[21:51:45] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.immersiveengineering.metal@19 = 1xitem.ingotGold@0
+[21:51:45] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.Dust@0 = 1xitem.ingotIron@0
+[21:51:45] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.Dust@1 = 1xitem.ingotGold@0
+[21:51:45] [Server thread/INFO] [GregTech]: Running early material handlers...
+[21:51:45] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Purified Crushed Tin Ore -> 1x gregtech:Tin Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedPurified(OreRecipeHandler.java:301) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:45] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Purified Crushed Gold Ore -> 1x minecraft:Gold Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedPurified(OreRecipeHandler.java:301) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:45] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Purified Crushed Iron Ore -> 1x minecraft:Iron Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedPurified(OreRecipeHandler.java:301) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:45] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Purified Crushed Silver Ore -> 1x gregtech:Silver Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedPurified(OreRecipeHandler.java:301) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:45] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Purified Crushed Copper Ore -> 1x gregtech:Copper Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedPurified(OreRecipeHandler.java:301) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:45] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Purified Crushed Lead Ore -> 1x gregtech:Lead Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedPurified(OreRecipeHandler.java:301) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Crushed Tin Ore -> 1x gregtech:Tin Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedOre(OreRecipeHandler.java:205) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Crushed Gold Ore -> 1x minecraft:Gold Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedOre(OreRecipeHandler.java:205) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Crushed Iron Ore -> 1x minecraft:Iron Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedOre(OreRecipeHandler.java:205) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Crushed Silver Ore -> 1x gregtech:Silver Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedOre(OreRecipeHandler.java:205) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Crushed Copper Ore -> 1x gregtech:Copper Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedOre(OreRecipeHandler.java:205) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Crushed Lead Ore -> 1x gregtech:Lead Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processMetalSmelting(OreRecipeHandler.java:62) ~[OreRecipeHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processCrushedOre(OreRecipeHandler.java:205) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x mekanism:Tin Ore -> 1x gregtech:Tin Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processOre(OreRecipeHandler.java:116) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Tin Ore -> 1x gregtech:Tin Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processOre(OreRecipeHandler.java:116) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x mekanism:Copper Ore -> 1x gregtech:Copper Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processOre(OreRecipeHandler.java:116) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x immersiveengineering:Copper Ore -> 1x gregtech:Copper Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processOre(OreRecipeHandler.java:116) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Copper Ore -> 1x gregtech:Copper Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processOre(OreRecipeHandler.java:116) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x immersiveengineering:Silver Ore -> 1x gregtech:Silver Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processOre(OreRecipeHandler.java:116) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x immersiveengineering:Nickel Ore -> 1x gregtech:Nickel Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processOre(OreRecipeHandler.java:116) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x immersiveengineering:Lead Ore -> 1x gregtech:Lead Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processOre(OreRecipeHandler.java:116) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/WARN] [GregTech]: Invalid Recipe Found
+java.lang.IllegalArgumentException: Tried to register duplicate Furnace Recipe: 1x ic2:Lead Ore -> 1x gregtech:Lead Ingot, 0.5exp
+	at gregtech.api.recipes.ModHandler.logInvalidRecipe(ModHandler.java:755) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:159) ~[ModHandler.class:?]
+	at gregtech.api.recipes.ModHandler.addSmeltingRecipe(ModHandler.java:135) ~[ModHandler.class:?]
+	at gregtech.loaders.recipe.handlers.OreRecipeHandler.processOre(OreRecipeHandler.java:116) ~[OreRecipeHandler.class:?]
+	at gregtech.api.unification.ore.OrePrefix.lambda$addProcessingHandler$31(OrePrefix.java:606) ~[OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runGeneratedMaterialHandlers(OrePrefix.java:640) [OrePrefix.class:?]
+	at gregtech.api.unification.ore.OrePrefix.runMaterialHandlers(OrePrefix.java:620) [OrePrefix.class:?]
+	at gregtech.common.CommonProxy.runEarlyMaterialHandlers(CommonProxy.java:336) [CommonProxy.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_69_CommonProxy_runEarlyMaterialHandlers_Register.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus$1.invoke(EventBus.java:144) [EventBus$1.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.registries.GameData.fireRegistryEvents(GameData.java:857) [GameData.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:636) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[21:51:46] [Server thread/INFO] [GregTech]: Running late material handlers...
+[21:51:47] [Server thread/INFO] [FML]: Applying holder lookups
+[21:51:47] [Server thread/INFO] [FML]: Holder lookups applied
+[21:51:47] [Server thread/INFO] [AE2:S]: Initialization ( started )
+[21:51:47] [Server thread/INFO] [AE2:S]: Disabling item.csv export for custom recipes, since creative tab information is only available on the client.
+[21:51:47] [Server thread/INFO] [AE2:S]: Initialization ( ended after 52ms )
+[21:51:47] [Server thread/INFO] [Aroma1997Core]: Finished Initialization.
+[21:51:47] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.me.cluster.implementations.CraftingCPUCluster
+[21:51:47] [Server thread/INFO] [GregTech]: Initializing ore generation registry...
+[21:51:47] [Server thread/INFO] [GregTech]: Reloading ore generation files from config...
+[21:51:47] [Server thread/INFO] [GregTech]: Attempting extraction of standard dimension definitions from /assets/gregtech/worldgen to /workspaces/minwcraft-greg/servidor_minecraft/config/gregtech/dimensions.json
+[21:51:47] [Server thread/INFO] [GregTech]: Extracted builtin dimension definitions into worldgen folder
+[21:51:47] [Server thread/INFO] [GregTech]: Attempting extraction of standard worldgen definitions from /assets/gregtech/worldgen/fluid to /workspaces/minwcraft-greg/servidor_minecraft/config/gregtech/worldgen/fluid
+[21:51:47] [Server thread/INFO] [GregTech]: Extracted 8 builtin worldgen bedrock fluid definitions into fluid folder
+[21:51:47] [Server thread/INFO] [GregTech]: Extracted jar lock file into worldgen folder
+[21:51:47] [Server thread/INFO] [GregTech]: Attempting extraction of standard worldgen definitions from /assets/gregtech/worldgen/vein to /workspaces/minwcraft-greg/servidor_minecraft/config/gregtech/worldgen/vein
+[21:51:47] [Server thread/INFO] [GregTech]: Extracted 45 builtin worldgen vein definitions into vein folder
+[21:51:47] [Server thread/INFO] [GregTech]: Loaded 45 vein worldgen definitions
+[21:51:47] [Server thread/INFO] [GregTech]: Loaded 8 bedrock worldgen definitions
+[21:51:47] [Server thread/INFO] [GregTech]: Loaded 0 worldgen definitions from addon mods
+[21:51:47] [Server thread/INFO] [GregTech]: Loaded 0 bedrock worldgen definitions from addon mods
+[21:51:47] [Server thread/INFO] [GregTech]: Loaded 53 total worldgen definitions
+[21:51:47] [Server thread/INFO] [GregTech]: Registering cover behaviors...
+[21:51:47] [Server thread/INFO] [GregTech]: Registering dungeon loot...
+[21:51:48] [Server thread/INFO] [GregTech Mod Integration]: Registered Immersive Engineering Compat
+[21:51:48] [Thread-6/INFO] [immersiveengineering]: Arc Recycling: Removed 0 old recipes
+[21:51:48] [Server thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addConfigReservoirs:730]: Added resevoir type aquifer
+[21:51:48] [Server thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addConfigReservoirs:730]: Added resevoir type oil
+[21:51:48] [Server thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addConfigReservoirs:730]: Added resevoir type lava
+[21:51:48] [Server thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addDistillationRecipe:374]: Added distillation recipe using oil
+[21:51:48] [Server thread/INFO] [STDOUT]: [flaxbeard.immersivepetroleum.common.Config:addDistillationRecipe:377]: Bitumen
+[21:51:48] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
+[21:51:48] [Server thread/INFO] [Mekanism]: Loading complete.
+[21:51:48] [Server thread/INFO] [Mekanism]: Mod loaded.
+[21:51:48] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
+[21:51:48] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21:51:48] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 1/2 (Server)
+[21:51:48] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:51:48] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:51:48] [Server thread/WARN] [FML]: No types have been added to Biome appliedenergistics2:storage_biome, types have been assigned on a best-effort guess: [PLAINS, COLD]
+[21:51:48] [Server thread/WARN] [FML]: No types have been added to Biome aroma1997sdimension:miningbiome, types have been assigned on a best-effort guess: [PLAINS]
+[21:51:48] [Server thread/INFO] [AE2:S]: Post Initialization ( started )
+[21:51:48] [Server thread/INFO] [AE2:S]: Industrial Craft 2 - Integration Enable
+[21:51:48] [Server thread/INFO] [AE2:S]: GregTech - Integration Enable
+[21:51:48] [Server thread/INFO] [AE2:S]: Railcraft - Integration Disabled
+[21:51:48] [Server thread/INFO] [AE2:S]: Mine Factory Reloaded - Integration Disabled
+[21:51:48] [Server thread/INFO] [AE2:S]: Waila - Integration Enable
+[21:51:48] [Server thread/INFO] [AE2:S]: Mekanism - Integration Enable
+[21:51:48] [Server thread/INFO] [AE2:S]: OpenComputers - Integration Disabled
+[21:51:48] [Server thread/INFO] [AE2:S]: TheOneProbe - Integration Disabled
+[21:51:48] [Server thread/INFO] [AE2:S]: Tesla - Integration Disabled
+[21:51:48] [Server thread/INFO] [AE2:S]: CraftTweaker - Integration Disabled
+[21:51:48] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: gregtech:shape.extruder.pipe.medium
+[21:51:48] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: gregtech:shape.extruder.sword
+[21:51:48] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: gregtech:shape.extruder.pickaxe
+[21:51:48] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: gregtech:shape.extruder.shovel
+[21:51:48] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: gregtech:shape.extruder.axe
+[21:51:48] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: gregtech:shape.extruder.hoe
+[21:51:48] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: gregtech:shape.extruder.hammer
+[21:51:48] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: gregtech:shape.extruder.file
+[21:51:48] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: gregtech:shape.extruder.saw
+[21:51:48] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: gregtech:glass_lens.white
+[21:51:49] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: contenttweaker:smallgearextrudershape
+[21:51:49] [Server thread/ERROR] [AE2:S]: Item not found on nonBlocking config: contenttweaker:creativeportabletankmold
+[21:51:49] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.container.implementations.ContainerCraftConfirm
+[21:51:49] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.container.implementations.ContainerInterfaceTerminal
+[21:51:49] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.container.implementations.ContainerInterfaceConfigurationTerminal
+[21:51:49] [Server thread/INFO] [STDOUT]: [com.glodblock.github.coremod.FCClassTransformer:transform:71]: [AE2FC] Transforming class: appeng.container.implementations.ContainerFluidInterfaceConfigurationTerminal
+[21:51:49] [Server thread/INFO] [AE2:S]: Post Initialization ( ended after 173ms )
+[21:51:52] [Thread-6/INFO] [immersiveengineering]: Finished recipe profiler for Arc Recycling, took 4498 milliseconds
+[21:51:52] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xic2.alloy_chestplate@32767, missing knowledge for {1xitem.chestplateCloth@32767=1.0}
+[21:51:52] [Server thread/INFO] [immersiveengineering]: Couldn't fully analyze 1xtile.immersiveengineering.metal_device1@10, missing knowledge for {1xtile.immersiveengineering.metal_device0@4=1.0}
+[21:51:52] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[21:51:52] [Server thread/INFO] [ic2.General]: ic2 version 2.8.222-ex112 loaded.
+[21:51:52] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[21:51:52] [Server thread/INFO] [Mekanism]: Hooked into IC2 successfully.
+[21:51:52] [Server thread/INFO] [Mekanism]: Hooked into AE2 successfully.
+[21:51:52] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[21:51:52] [Server thread/INFO] [Mekanism]: Hooking complete.
+[21:51:52] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21:51:52] [Server thread/INFO] [xaero.map.WorldMap]: Loading Xaero's World Map - Stage 2/2 (Server)
+[21:51:52] [Server thread/INFO] [Waila]: Starting Waila...
+[21:51:52] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[21:51:52] [Server thread/ERROR] [Waila]: Error discovering plugin for class gregtech.integration.hwyla.HWYLAClient: gregtech.integration.hwyla.HWYLAClient
+[21:51:52] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[21:51:52] [Server thread/INFO] [Waila]: Registering plugins...
+[21:51:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[21:51:52] [Server thread/INFO] [Waila]: Registering plugin at appeng.integration.modules.waila.WailaModule
+[21:51:52] [Server thread/ERROR] [Waila]: Error registering wrapped plugin from appliedenergistics2 at appeng.integration.modules.waila.WailaModule.register
+[21:51:52] [Server thread/INFO] [Waila]: Registering plugin at blusunrize.immersiveengineering.common.util.compat.waila.IEWailaDataProvider
+[21:51:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[21:51:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[21:51:52] [Server thread/INFO] [Waila]: Registering plugin at gregtech.integration.hwyla.HWYLAModule
+[21:51:52] [Server thread/INFO] [Waila]: Starting Waila took 81.19 ms
+[21:51:53] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 44 mods
+[21:51:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[21:51:53] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_endstone_crushed
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_netherrack_crushed
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_auto_sifter
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_waterwheel
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_grinder
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_barrel0
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world gravestone:gravestone
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_barrel1
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_crucible
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:witchwater
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_crucible_wood
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_infested_leaves
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_sieve
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_andesite_crushed
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_diorite_crushed
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_axle_stone
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_skystone_crushed
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_dust
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_end_cake
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_granite_crushed
+[21:51:53] [Server thread/INFO] [FML]: Registry Block: Found a missing id from the world exnihilocreatio:block_infesting_leaves
+[21:51:54] [Server thread/INFO] [FML]: Applying holder lookups
+[21:51:54] [Server thread/INFO] [FML]: Holder lookups applied
+[21:51:54] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@30a40fcc)
+[21:51:54] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 679 advancements
+[21:51:54] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been successfully loaded
+[21:51:54] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@30a40fcc)
+[21:51:54] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@30a40fcc)
+[21:51:54] [Server thread/INFO] [FML]: Loading dimension -6 (world) (net.minecraft.server.dedicated.DedicatedServer@30a40fcc)
+[21:51:54] [Server thread/INFO] [FML]: Loading dimension 2 (world) (net.minecraft.server.dedicated.DedicatedServer@30a40fcc)
+[21:51:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[21:51:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cow that already exists with UUID 4044f377-fafd-4ba3-bbc5-c2c5291e2041
+[21:51:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 68%
+[21:51:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.991s)! For help, type "help" or "?"
+[21:51:56] [Server thread/INFO] [immersiveengineering]: WorldData loading
+[21:51:56] [Server thread/INFO] [immersiveengineering]: WorldData retrieved
+[21:51:56] [Server thread/WARN] [Mekanism]: Failed to retrieve username for UUID 00000000-0000-0000-0000-000000000000, you might want to add it to the JSON cache
+[21:51:57] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:51:57] [Server thread/INFO] [FML]: Unloading dimension 1
+[21:53:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 1000
+[21:55:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Located Village at -456 (y?) 824
+[21:56:19] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:56:19] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,gcym@1.2.11,p455w0rdslib@2.3.161,ae2wtlib@1.0.34,mixinbooter@10.2,immersiveengineering@0.12-98,durability101@0.0.4,ae2fc@2.6.6-r,jei@4.16.1.1003,mekanism@1.12.2-9.8.3.390,solarflux@12.4.11,projectred-core@4.9.4.120,ic2@2.8.222-ex112,forgeendertech@1.12.2-4.5.6.1,xaerominimap@24.6.1,mcp@9.42,xaeroworldmap@1.39.0,appliedenergistics2@v0.56.6,fluxnetworks@4.1.0,oreexcavation@1.4.150,projectred-transmission@4.9.4.120,storagenetwork@1.8.3,mrtjpcore@2.1.4.43,aroma1997core@2.0.0.2.b167,FML@8.0.99.99,microblockcbe@2.6.2.83,projectred-integration@4.9.4.120,buildinggadgets@2.8.4,visualores@0.2.6,wct@3.12.97,minecraftmultipartcbe@2.6.2.83,xaerominimap_core@1.12.2-1.0,forgemultipartcbe@2.6.2.83,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,recipehandler@0.14,immersivepetroleum@1.1.10,refinedstorageaddons@0.4.5,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,codechickenlib@3.2.3.358,gregtech@2.8.10-beta,refinedstorage@1.6.16,aroma1997sdimension@2.0.0.2.b89
+[21:56:20] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:56:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:56:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: johan[/127.0.0.1:50432] logged in with entity id 356 at (74.5, 90.0, 261.5)
+[21:56:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: johan joined the game
+[21:56:33] [Server thread/INFO] [buildinggadgets]: Sending SyncedConfig to freshly logged in player johan.
+[21:56:33] [Server thread/INFO] [Waila]: Player EntityPlayerMP['johan'/356, l='world', x=74.50, y=90.00, z=261.50] connected. Sending ping
+[21:56:33] [Server thread/INFO] [Mekanism]: Sent config to 'johan.'
+[21:56:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: johan lost connection: Timed out
+[21:56:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: johan left the game
+[21:56:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped johan
+[21:58:22] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[21:58:22] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,gcym@1.2.11,p455w0rdslib@2.3.161,ae2wtlib@1.0.34,mixinbooter@10.2,immersiveengineering@0.12-98,durability101@0.0.4,ae2fc@2.6.6-r,jei@4.16.1.1003,mekanism@1.12.2-9.8.3.390,solarflux@12.4.11,projectred-core@4.9.4.120,ic2@2.8.222-ex112,forgeendertech@1.12.2-4.5.6.1,xaerominimap@24.6.1,mcp@9.42,xaeroworldmap@1.39.0,appliedenergistics2@v0.56.6,fluxnetworks@4.1.0,oreexcavation@1.4.150,projectred-transmission@4.9.4.120,storagenetwork@1.8.3,mrtjpcore@2.1.4.43,aroma1997core@2.0.0.2.b167,FML@8.0.99.99,microblockcbe@2.6.2.83,projectred-integration@4.9.4.120,buildinggadgets@2.8.4,visualores@0.2.6,wct@3.12.97,minecraftmultipartcbe@2.6.2.83,xaerominimap_core@1.12.2-1.0,forgemultipartcbe@2.6.2.83,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,recipehandler@0.14,immersivepetroleum@1.1.10,refinedstorageaddons@0.4.5,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,codechickenlib@3.2.3.358,gregtech@2.8.10-beta,refinedstorage@1.6.16,aroma1997sdimension@2.0.0.2.b89
+[21:58:22] [Netty Epoll Server IO #5/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:58:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:58:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: johan[/127.0.0.1:55466] logged in with entity id 1144 at (74.5, 90.0, 261.5)
+[21:58:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: johan joined the game
+[21:58:33] [Server thread/INFO] [buildinggadgets]: Sending SyncedConfig to freshly logged in player johan.
+[21:58:33] [Server thread/INFO] [Waila]: Player EntityPlayerMP['johan'/1144, l='world', x=74.50, y=90.00, z=261.50] connected. Sending ping
+[21:58:33] [Server thread/INFO] [Mekanism]: Sent config to 'johan.'
+[21:59:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [johan: Set own game mode to Creative Mode]
+[21:59:22] [Server thread/WARN] [FML]: GregTech loaded a new chunk [18, 16] in dimension 0 (overworld) while populating chunk [18, 17], causing cascading worldgen lag.
+[21:59:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:59:22] [Server thread/WARN] [FML]: GregTech loaded a new chunk [18, 13] in dimension 0 (overworld) while populating chunk [18, 14], causing cascading worldgen lag.
+[21:59:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:59:22] [Server thread/WARN] [FML]: GregTech loaded a new chunk [18, 10] in dimension 0 (overworld) while populating chunk [18, 11], causing cascading worldgen lag.
+[21:59:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:59:31] [Server thread/WARN] [FML]: GregTech loaded a new chunk [10, 30] in dimension 0 (overworld) while populating chunk [11, 30], causing cascading worldgen lag.
+[21:59:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
